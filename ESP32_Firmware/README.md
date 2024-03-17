@@ -11,10 +11,6 @@ To utilize the firmwares in this repository, follow the instructions provided in
 
 Contributions are welcome! Feel free to open issues and send pull requests for improvements, bug fixes, or new firmwares.
 
-### License:
-
-This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the firmwares, provided you maintain author attribution and include the license.
-
 #
 ## Portuguese Version:
 
@@ -28,7 +24,3 @@ Para utilizar os firmwares deste repositório, siga as instruções de cada proj
 ### Contribuição:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull requests para melhorias, correções de bugs ou novos firmwares.
-
-### Licença:
-
-Este repositório é licenciado sob a [Licença MIT](LICENSE), o que significa que você pode usar, modificar e distribuir os firmwares livremente, desde que mantenha a atribuição de autoria e inclua a licença.
