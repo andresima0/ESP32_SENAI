@@ -15,6 +15,7 @@ Contributions are welcome! Feel free to open issues and send pull requests for i
 
 This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the firmwares, provided you maintain author attribution and include the license.
 
+#
 ## Portuguese Version:
 
 Este repositório contém uma coleção de firmwares desenvolvidos em C++ para serem utilizados com a plataforma ESP32. 
