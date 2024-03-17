@@ -6,4 +6,4 @@
 
 ⚠️ Siga a montagem de hardware como proposto abaixo:
 
-https://github.com/andresima0/ESP32-SENAI/assets/111400782/63505a4f-1f83-4061-a556-be7b25e2c16b
+https://github.com/andresima0/ESP32_SENAI/assets/111400782/deb58e3f-d703-4dd6-93e7-df266ae0822d
