@@ -3,4 +3,4 @@
 ### Controle de duas saídas, que ligam dois LEDS alternadamente. 
 ⚠️ Siga a montagem de hardware como proposto abaixo:
 
-https://github.com/andresima0/ESP32-SENAI/assets/111400782/8a0c528f-56ed-4ef5-aacc-0e01becec415
+https://github.com/andresima0/ESP32_SENAI/assets/111400782/6ac4188c-e563-4c33-a4a2-bfebb4196d23
